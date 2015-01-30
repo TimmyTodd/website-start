@@ -1,6 +1,6 @@
 {
-	"author": "Netplus",
-    "name": "Valentine",
+	"author": "",
+    "name": "",
     "version": "1.0.0",
     "dependencies": {
         "grunt-cli": "latest",
