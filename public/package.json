@@ -1,0 +1,13 @@
+{
+	"author": "Netplus",
+    "name": "Valentine",
+    "version": "1.0.0",
+    "dependencies": {
+        "grunt-cli": "latest",
+        "grunt-contrib-sass": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-cssmin" : "latest",
+        "grunt-contrib-uglify" : "latest"
+    }
+}
