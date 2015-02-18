@@ -1,0 +1,12 @@
+body {
+  font: $openSans 100%/140% 300;
+  background-color: $lterGray;
+}
+
+.wrap {
+  
+}
+
+.btn {
+  @include border-radius(4px);
+}
