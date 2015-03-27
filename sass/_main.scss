@@ -1,6 +1,7 @@
 body {
-  font: $openSans 100%/140% 300;
-  background-color: $lterGray;
+  font-family: $openSans;
+  font-size: 100%;
+  font-weight: 300;
 }
 
 .wrap {

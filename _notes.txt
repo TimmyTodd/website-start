@@ -1,4 +1,3 @@
-http://lukyvj.github.io/menu-to-cross-icon/
-
-for login & realtime updates
-angular JS w/ Firebase - http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391
+must have grunt & node installed
+cd into admin - “grunt watch” to run grunt file.js
+also uses live reload (not required) http://livereload.com/
